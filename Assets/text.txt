@@ -1,0 +1,499 @@
+*windham
+!stuart
+polyorketes%Aristides! Wait!
+stuart%That's it.
+stuart%They'll put a prize crew of two aboard and take us to one of their home planets. We're prisoners of war, naturally.
+windham%Only two of the Kloros will stay aboard?
+stuart%It is their custom. 
+stuart%Why do you ask, Colonel? Thinking of leading a gallant raid to retake the ship?
+windham%Simply a point of information, dash it.
+
+*stuart
+!windham
+windham%...Dashed unpleasant thing to be saying about the enemy, Stuart. Don't know that I like your attitude.
+stuart%Nonsense. Just reverse the present situation. 
+stuart%Suppose an Earth warship had taken a Kloro liner. What do you think would have happened to any Kloro civilians aboard?
+windham%I'm sure the Earth fleet would observe all the interstellar rules of war,-
+stuart%Except that there aren't any.
+stuart%If we landed a prize crew on one of their ships, do you think we'd take the trouble 
+stuart%to maintain a chlorine atmosphere for the benefit of the survivors;
+stuart%Allow them to keep their non-contraband possessions; give them the use of the most comfortable stateroom, etcetera, etcetera, etcetera?
+porter%Oh, shut up, for God's sake. If I hear your etcetera, etcetera once again, I'll go nuts.
+stuart%Sorry!
+polyorketes%Oh, my brother!
+
+!leblanc
+leblanc%Mr. Stuart?
+stuart%What is it, Leblanc?
+leblanc%Tell me, when will they let us go?
+stuart%How should I know?
+leblanc%Everyone says you lived on a Kloro planet, and just now you said they were gentlemen.
+stuart%Well, yes. But even gentlemen fight wars in order to win. 
+stuart%Probably, we'll be interned for the duration.
+leblanc%But that could be years! Margaret is waiting. She'll think I'm dead!
+stuart%I suppose they'll allow messages to be sent through once we're on their planet.
+porter%Look here, if you know so much about these devils, what will they do to us while we're interned? 
+porter%What will they feed us? Where will they get oxygen for us? 
+porter%They'll kill us, I tell you.
+porter%I've got a wife waiting for me, too,
+stuart%They won't kill us. 
+stuart%If they were going to, they would have done it before now. 
+stuart%Look, we capture Kloros too, you know, and it's just a matter of common sense to treat your prisoners decently 
+stuart%if you want the other side to be decent to your men.
+stuart%They'll do their best. The food may not be very good, but they're better chemists than we are. 
+stuart%It's what they're best at. They'll know exactly what food factors we'll need and how many calories. 
+stuart%We'll live. They'll see to that.
+windham%You sound more and more like a blasted greenie sympathizer, Stuart. 
+windham%It turns my stomach to hear an Earthman speak well of the green fellas the way you've been doing. 
+windham%Burn it, man, where's your loyalty?
+stuart%My loyalty's where it belongs. 
+stuart%With honesty and decency, regardless of the shape of the being it appears in.
+stuart%See these? Kloros made them. I lived on one of their planets for six months. 
+stuart%My hands were mangled in the conditioning machinery of my own quarters. 
+stuart%I thought the oxygen supply they gave me was a little poor-it wasn't, by the way- and I tried making the adjustments on my own. 
+stuart%It was my fault. You should never trust yourself with the machines of another culture. 
+stuart%By the time someone among the Kloros could put on an atmosphere suit and get to me, it was too late to save my hands.
+stuart%They grew these artiplasm things for me and operated. 
+stuart%You know what that meant? It meant designing equipment and nutrient solutions thatwould work in oxygen atmosphere. 
+stuart%It meant that their surgeons had to perform a delicate operation while dressed in atmosphere suits. And now I've got hands again.
+stuart%Hands-
+windham%And you'd sell your loyalty to Earth for that?
+stuart%Sell my loyalty? You're mad. 
+stuart%For years, I hated the Kloros for this. 
+stuart%I was a master pilot on the Trans-Galactic Spacelines before it happened. 
+stuart%Now? Desk job. Or an occasional lecture. 
+stuart%It took me a long time to pin the fault on myself and to realize that the only role played by the Kloros was a decent one. 
+stuart%They have their code of ethics, and it's as good as ours. 
+stuart%If it weren't for the stupidity of some of their people-and, by God, of some of ours-we wouldn't be at war. And after it's over-
+polyorketes%I don't like what you say, mister.
+stuart%Why don't you?
+polyorketes%Because you talk too nice about these damned green bastards. 
+polyorketes%The Kloros were good to you, eh? Well, they weren't good to my brother. 
+polyorketes%They killed him. I think maybe I kill you, you damned greenie spy.
+stuart%What the hell-
+leblanc%Stop it! Stop it!
+stuart%Stay away, Polyorketes.
+polyorketes%It is no use. I must kill Kloros. 
+polyorketes%Just watch your tongue, Stuart. If it keeps on rattling too much, you're liable to get hurt. 
+polyorketes%Really hurt, I mean.
+windham%Gentlemen, we must avoid this. It lowers our prestige. We must remember the common enemy. 
+windham%We are Earthmen and we must act what we are-the ruling race of the Galaxy. We dare not demean ourselves before the lesser breeds.
+stuart%Yes, Colonel,
+stuart%Give us the rest of the speech tomorrow.
+stuart%I want to say thanks.
+mullen%Don't thank me, Mr. Stuart. It was the logical thing to do. 
+mullen%If we are to be interned, we would need you as an interpreter, perhaps, one who would understand the Kloros.
+
+*polyorketes
+!windham
+polyorketes%What happened to start this war, eh?
+windham%The immediate cause, sir, was a dispute over mining concessions in the Wyandotte system. The Kloros had poached on Earth property.
+stuart%Room for both, Colonel!
+stuart%Is that anything to fight over, Colonel? We can't use one another's worlds. 
+stuart%Their chlorine planets are useless to us and our oxygen ones are useless to them. Chlorine is deadly to us and oxygen is deadly to them. 
+stuart%There's no way we could maintain permanent hostility. Our races justdon't coincide. 
+stuart%Is there reason to fight then because both races want to dig iron out of the same airless planetoids when there are millions like them in the Galaxy?
+windham%There is the question of planetary honor-
+stuart%Planetary fertilizer. 
+stuart%How can it excuse a ridiculous war like this one? It can only be fought on outposts. 
+stuart%It has to come down to a series of holding actions and eventually be settled by negotiations 
+stuart%that might just as easily have been worked out in the first place. 
+stuart%Neither we nor the Kloros will gain a thing.
+
+!kloro
+kloro%It is with some misgivings, Earthmen, that my companion and myself-
+kloro%He is not permanently hurt.
+kloro%It is with some misgiving, Earthmen, that my companion and myself were made aware of a certain commotion in this room. 
+kloro%Are you in any need which we can satisfy?
+stuart%No, thank you, Kloro.
+windham%Now, look here, this is a dashed outrage. We demand that our release be arranged.
+windham%You have no right to hold us prisoner. We are noncombatants.
+kloro%Are you serious, Earthman? Surely you have heard of war and rules of war and prisoners of war.
+
+*porter
+!stuart
+porter%God, smell that chlorine. If they don't do something, we'll all die of rotted lungs.
+stuart%Shut up. 
+stuart%There isn't enough chlorine in the air to make a mosquito sneeze, and what there is will be swept out in two minutes. 
+stuart%Besides, a little chlorine is good for you. It may kill your cold virus.
+windham%Stuart, I feel that you might have said something to your Kloro friend about releasing us. 
+windham%You are scarcely as bold in their presence, dash it, as you are once they are gone.
+stuart%You heard what the creature said, Colonel. We're prisoners of war, and prisoner exchanges are negotiated by diplomats. We'll just have to wait.
+mullen%Perhaps Mr. Leblanc had better take a sedative before retiring. I have a few. I'd be glad to give him one.
+mullen%Otherwise he may keep the rest of us awake, you see.
+stuart%Very logical,
+stuart%You'd better save one for Sir Launcelot here; save half a dozen.
+
+*stuart
+!polyorketes
+stuart%Comfortable, baby?
+windham%Deuced poor taste speaking like that, Stuart.
+stuart%Well, if you're so concerned about him, why don't you and Porter hoist him onto his cot?
+stuart%And don't be too gentle with him, either. The damned fool might have gotten us all killed. And for what?
+
+!polyorketes
+stuart%Can you hear me, Polyorketes?
+stuart%Okay then, listen. Don't try anything like that again. 
+stuart%The next time it may be the finish for all of us. If you had been a Kloro and he had been an Earthman, we'd be dead now. 
+stuart%So just get one thing through your skull. We're sorry about your brother and it's a rotten shame, but it was his own fault.
+stuart%No, you keep on listening,
+stuart%Maybe this is the only time I'll get to talk to you when you have to listen. 
+stuart%Your brother had no right leaving passenger's quarters. There was no place for him to go. He just got in the way of our own men. 
+stuart%We don't even know for certain that it was a Kloro gun that killed him. It might have been one of our own.
+windham%Oh, I say, Stuart,
+stuart%Do you have proof it wasn't? 
+stuart%Did you see the shot? Could you tell from what was left of the body whether it was Kloro energy or Earth energy?
+polyorketes%Damned stinking greenie bastard.
+stuart%Me?
+stuart%I know what's going on in your mind, Polyorketes. 
+stuart%You think that1 when the paralysis wears off, you'll ease your feelings by slamming me around. 
+stuart%Well, if you do, it will probably be curtains for all of us.
+stuart%None of you know the Kloros the way I do. The physical differences you see are not important. 
+stuart%The differences in their temperament are. They don't understand our views on sex, for instance. 
+stuart%To them, it's just a biological reflex like breathing. They attach no importance to it. 
+stuart%But they do attach importance to social groupings. Remember, their evolutionaryancestors had lots in common with our insects. 
+stuart%They always assume that any group of Earthmen they find together makes up a social unit.
+stuart%But this is what you'll have to remember. We're going to be interned together and kept together for duration. 
+stuart%I don't like the thought. I wouldn't have picked any of you for co-internees and I'm pretty sure none of you would have picked me. 
+stuart%But there it is. The Kloros could never understand that our being together on the ship is only accidental.
+stuart%That's it, then. They would have killed every one of us as a bunch of Kloro-type perverts and monsters. 
+stuart%Got that? How about you, Polyorketes? Have you got it? 
+stuart%So let's call names if we have to, but let's keep our hands to ourselves. 
+stuart%And now, if none of you mind, I'll massage my hands back into shape-
+stuart%These synthetic hands that I got from the Kloros and that one of my own kind tried to mangle again.
+
+*leblanc
+!stuart
+leblanc%Mr. Stuart.
+stuart%How do you feel?
+leblanc%Much better, thank you. 
+leblanc%We are eating. I thought I'd bring you your ration,
+stuart%Did you hear my little speech?
+leblanc%Yes, sir. I want you to know you can count on me.
+stuart%Well, good. Now go and eat.
+leblanc%May I eat here?
+stuart%Suit yourself.
+leblanc%You are so sure of yourself, Mr. Stuart! It must be very wonderful to be like that!
+stuart%Sure of myself? Thanks, but there's your self-assured one.
+leblanc%Mr. Mullen? That little man? Oh, no!
+stuart%You don't think he's self-assured?
+leblanc%That one is just cold. He has no emotion in him. He's like a little machine. 
+leblanc%I find him repulsive. You're different, Mr. Stuart. 
+leblanc%You have it all inside, but you control it. I would like to be like that.
+mullen%How long, Mr. Stuart, do you think the trip will take?
+stuart%Can't say, Mullen. 
+stuart%They'll undoubtedly be avoiding the usual trade routes and they'll be making more Jumps through hyper-space than usual to throw off possible pursuit.
+stuart%I wouldn't be surprised if it took as long as a week. 
+stuart%Why do you ask? I presume you have a very practical and logical reason?
+mullen%Why, yes. Certainly.
+mullen%It occurred to me that it might be wise to ration the rations, so to speak.
+stuart%We've got enough food and water for a month. I checked on that first thing.
+mullen%I see. In that case, I will finish the can.
+
+*polyorketes
+!stuart
+polyorketes%You stinking greenie spy, you watch yourself.
+stuart%You heard what I said before, Polyorketes.
+polyorketes%I heard. But I also heard what you said about Aristides. 
+polyorketes%I won't bother with you, because you're a bag of nothing but noisy air. 
+polyorketes%But wait, someday you'll blow your air in one face too many and it will be let out of you.
+stuart%I'll wait.
+windham%Now, now.
+windham%We're all Earthmen, dash it. Got to remember that; keep it as a glowing light of inspiration. 
+windham%Never let down before the blasted Kloros. 
+windham%We've got to forget private feuds and remember only that we are Earthmen united against alien blighters.
+porter%It doesn't help to be a wiseguy, Stuart. You listen to the colonel. We've been doing some hard thinking about the situation.
+stuart%All right, Colonel, what's on your mind?
+windham%I'd prefer to have all the men together.
+stuart%Okay, call them.
+stuart%You want that fellow?
+windham%Why, yes. Mr. Polyorketes, may we have you, old fella?
+polyorketes%Ah, leave me alone.
+stuart%Go ahead, leave him alone. I don't want him.
+windham%No, no, this is a matter for all Earthmen. 
+windham%Mr. Polyorketes, we must have you.
+polyorketes%I'm close enough, I can hear you.
+windham%Would they-the Kloros, I mean-have this room wired?
+stuart%No, why should they?
+windham%Are you sure?
+stuart%Of course I'm sure. 
+stuart%They didn't know what happened when Polyorketes jumped me. They just heard the thumping when it started rattling the ship.
+windham%Maybe they were trying to give us the impression the room wasn't wired.
+stuart%Listen, Colonel, I've never known a Kloro to tell a deliberate lie-
+polyorketes%That lump of noise just loves the Kloros.
+windham%Let's not begin that. 
+windham%Look, Stuart, Porter and I have been discussing matters and we have decided that you know the Kloros well enough to think of some way of getting us
+windham%back to Earth.
+stuart%It happens that you're wrong. I can't think of any way.
+windham%Maybe there is some way we can take the ship back from the blasted green fellas,
+windham%some weakness they may have. Dash it, you know what I mean.
+stuart%Tell me, Colonel, what are you after? Your own skin or Earth's welfare?
+windham%I resent that question. 
+windham%I'll have you know that while I'm as careful of my own life as anyone has a right to be, I'm thinking of Earth primarily. 
+windham%And I think that's true of all of us.
+porter%Damn right,
+stuart%Good! Of course, I don't think we can take the ship. They're armed and we aren't. 
+stuart%But there's this. You know why the Kloros took this ship intact. It's because they need ships. 
+stuart%They may be better chemists than Earthmen are, but Earthmen are better astronautical engineers. We have bigger, better and more ships. 
+stuart%In fact, if our crew had had a proper respect for military axioms in the first place, they would have blown the ship up 
+stuart%as soon as it looked as though the Kloros were going to board.
+leblanc%And kill the passengers?
+stuart%Why not? You heard what the good colonel said. Every one of us puts his own lousy little life after Earth's interests. 
+stuart%What good are we to Earth alive right now? None at all. What harm will this ship do in Kloro hands? A hell of a lot, probably.
+mullen%Just why did our men refuse to blow up the ship? They must have had a reason.
+stuart%They did. It's the firmest tradition of Earth's military men that there must never be an unfavorable ratio of casualties. 
+stuart%If we had blown ourselves up, twenty fighting men and seven civilians of Earth would be dead as compared with an enemy casualty total of zero. 
+stuart%So what happens? We let them board, kill twenty-eight-I'm sure we killed at least that many-and let them have the ship.
+polyorketes%Talk, talk, talk!
+stuart%There's a moral to this,
+stuart%We can't take the ship away from the Kloros. 
+stuart%We might be able to rush them, though, and keep them busy long enough to allow one of us enough time to short the engines.
+porter%What?
+stuart%Short the engines, That would destroy the ship, of course, which is what we want to do, isn't it?
+leblanc%I don't think that would work.
+stuart%We can't be sure till we try. But what have we to lose by trying?
+porter%Our lives, damn it!
+porter%You insane maniac, you're crazy!
+stuart%If I'm a maniac, and insane to boot, then naturally I'm crazy. 
+stuart%But just remember that if we lose our lives, which is overwhelminglyprobable, we lose nothing of value to Earth.
+stuart%Whereas if we destroy the ship, as we just barely might, we do Earth a lot of good. What patriot would hesitate? 
+stuart%Who here would put himself ahead of his world?
+stuart%Surely not you, Colonel Windham.
+windham%My dear man, that is not the question. There must be a way to save the ship for Earth without losing our lives, eh?
+stuart%All right. You name it.
+windham%Let's all think about it. Now there are only two of the Kloros aboard ship. If one of us could sneak up on them and-
+stuart%How? The rest of the ship's all filled with chlorine. We'd have to wear a spacesuit. 
+stuart%Gravity in their part of the ship is hopped up to Kloro level, so whoever is patsy in the deal would be clumping around,
+stuart%metal on metal, slow and heavy. Oh, he could sneak up on them, sure-like a skunk trying to sneak downwind.
+porter%Then we'll drop it all!
+porter%Listen, Windham, there's not going to be any destroying the ship. 
+porter%My life means plenty to me and if any of you try anything like that, I'll call the Kloros. I mean it.
+stuart%Well, there's hero number one.
+leblanc%I want to go back to Earth, but I-
+mullen%I don't think our chances of destroying the ship are good enough unless-
+stuart%Heroes number two and three. What about you, Polyorketes, You would have the chance of killing two Kloros.
+polyorketes%I want to kill them with my bare hands,
+polyorketes%On their planet, I will kill dozens.
+stuart%That's a nice safe promise for now. 
+stuart%What about you, Colonel? Don't you want to march to death and glory with me?
+windham%Your attitude is very cynical and unbecoming, Stuart. It's obvious that if the rest are unwilling, then your plan will fall through.
+stuart%Unless I do it myself, huh?
+windham%You won't, do you hear?
+stuart%Damn right I won't,
+stuart%I don't claim to be a hero. I'm just an average patriot, perfectly willing to head for any planet they take me to and sit out the war.
+mullen%Of course, there is a way we could surprise the Kloros.
+polyorketes%Mr. Bookkeeper!
+polyorketes%Mr. Bookkeeper is a big shot talker like this damned greenie spy, Stuart. 
+polyorketes%All right, Mr. Bookkeeper, go ahead. You make big speeches also. Let the words roll like an empty barrel.
+polyorketes%Empty barrel! Cripple-hand empty barrel. No good for anything but talk.
+mullen%We might be able to reach them from outside. This room has a C-chute I'm sure.
+leblanc%What's a C-chute?
+mullen%Well-
+stuart%It's a euphemism, my boy. Its full name is 'casualty chute.' 
+stuart%It doesn't get talked about, but the main rooms on any ship would have them. They're just little airlocks down which you slide a corpse. 
+stuart%Burial at space. Always lots of sentiment and bowed heads, with the captain making a rolling speech of the type Polyorketes here wouldn't like.
+leblanc%Use that to leave the ship?
+stuart%Why not? Superstitious? -Go on, Mullen.
+mullen%Once outside, one could re-enter the ship by the steam-tubes. It can be done-with luck. 
+mullen%And then you would be an unexpected visitor in the control room.
+stuart%How do you figure this out? What do you know about steam-tubes?
+mullen%You mean because I'm in the paper-box business? Well-
+mullen%My company, which manufactures fancy paper boxes and novelty containers, made a line of spaceship candy boxes for the juvenile trade some years ago.
+mullen%It was designed so that if a string were pulled, small pressure containers were punctured and jets of compressed air 
+mullen%shot out through the mock steam-tubes, sailing the box across the room and scattering candy as it went. 
+mullen%The sales theory was that the youngsters would find it exciting to play with the ship and fun to scramble for the candy.
+mullen%Actually, it was a complete failure. The ship would break dishes and sometimes hit another child in the eye. 
+mullen%Worse still, the children would not only scramble for the candy but would fight over it. 
+mullen%It was almost our worst failure. We lost thousands.
+mullen%Still, while the boxes were being designed, the entire office was extremely interested. 
+mullen%It was like a game, very bad for efficiency and office morale. For a while, we all became steam-tube experts. 
+mullen%I read quite a few books on ship construction. On my own time, however, not the company's.
+stuart%You know it's a video sort of idea, but it might work if we had a hero to spare. Have we?
+porter%What about you?
+porter%You go around sneering at us with your cheap wisecracks. I don't notice you volunteering for anything.
+stuart%That's because I'm no hero, Porter. I admit it. 
+stuart%My object is to stay alive, and shinnying down steam-tubes is no way to go about staying alive. 
+stuart%But therest of you are noble patriots. The colonel says so. What about you, Colonel? You're the senior hero here.
+windham%If I were younger, blast it, and if you had your hands, I would take pleasure, sir, in trouncing you soundly.
+stuart%I've no doubt of it, but that's no answer.
+windham%You know very well that at my time of life and with my leg-
+windham%I am in no position to do anything of the sort, however much I should wish to.
+stuart%Ah, yes, and I, myself, am crippled in the hands, as Pory-orketes tells me. 
+stuart%That saves us. And what unfortunate deformities do the rest of us have?
+porter%Listen, I want to know what this is all about. 
+porter%How can anyone go down the steam-tubes? What if the Kloros use them while one of us is inside?
+stuart%Why, Porter, that's part of the sporting chance. It's where the excitement comes in.
+leblanc%But he'd be boiled in the shell like a lobster.
+stuart%A pretty image, but inaccurate. The steam wouldn't be on for more than a very short time, maybe a second or two, 
+stuart%and the suit insulation would hold that long. Besides, the jet comes scooting out at several hundred miles a minute,
+stuart%so that you would be blown clear of the ship before the steam could even warm you. 
+stuart%In fact, you'd be blown quite a few miles out into space, and after that you would be quite safe from the Kloros. 
+stuart%Of course, you couldn't get back to the ship.
+porter%You don't scare me for one minute, Stuart.
+stuart%I don't? Then you're offering to go? Are you sure you've thought out what being stranded in space means? 
+stuart%You're all alone, you know; really all alone. The steam-jet will probably leave you turning or tumbling pretty rapidly. 
+stuart%You won't feel that. You'll seem to be motionless. But all the stars will be going around and around so that they're just streaks in the sky.
+stuart%They won't ever stop. They won't even slow up. Then your heater will go off, your oxygen will give out, and you will die very slowly. 
+stuart%You'll have lots of time to think. Or, if you are in a hurry, you could open your suit. 
+stuart%That wouldn't be pleasant, either. I've seen faces of men who had a torn suit happen to them accidentally, and it's pretty awful. 
+stuart%But it would be quicker. Then-
+//porter turns away
+stuart%Another failure. One act of heroism still ready to be knocked down to the highest bidder with nothing offered yet.
+polyorketes%You keep on talking, Mr. Big Mouth. You just keep banging that empty barrel. Pretty soon, we'll kick your teeth in. 
+polyorketes%There's one boy I think would be willing to do it now, eh, Mr. Porter?
+stuart%Then what about you, Polyorketes? You're the barehand man with guts. Want me to help you into a suit?
+polyorketes%I'll ask you when I want help.
+stuart%What about you, Leblanc?
+//leblanc shrinks away
+stuart%Not even to get back to Margaret?
+//leblanc shakes his head
+stuart%Mullen?
+mullen%Well-I'll try.
+stuart%You'll what?
+mullen%I said, yes, I'll try. 
+mullen%After all, it's my idea.
+stuart%You're serious? How come?
+mullen%Because no one else will.
+stuart%But that's no reason. Especially for you.
+windham%Do you really intend to go, Mullen?
+mullen%Yes, Colonel.
+windham%In that case, dash it, let me shake your hand. I like you. You're an-an Earthman, by heaven. Do this, and win or die, I'll bear witness for you.
+
+*stuart
+!mullen
+stuart%Better scratch your nose if it itches. It's your last chance for a while.
+mullen%I think perhaps I had better have a spare oxygen cylinder.
+stuart%Good enough.
+mullen%With a reducing valve.
+stuart%I see what you're thinking of. If you do get blown clear of the ship, 
+stuart%you could try to blow yourself back by using the cylinder as an action-reaction motor.
+
+*stuart
+!mullen
+//mullen is now halfway in the tube, with helmet on
+stuart%Can you hear me?
+//mullen nods
+stuart%Air coming through all right? No last-minute troubles?
+//mullen gives thumbs up or somethign like that
+stuart%Then remember, don't use the suit-radio out there. The Kloros might pick up the signals.
+//mullen drops down through the chute
+polyorketes%The little son-of-a-gun. He went!
+polyorketes%A little fellow with guts like that.
+stuart%Look, we'd better get ready in here. There's just a chance that the Kloros may have detected the valves opening and closing. 
+stuart%If so, they'll be here to investigate and we'll have to cover up.
+windham%How?
+stuart%They won't see Mullen anywhere around. We'll say he's in the head. 
+stuart%The Kloros know that it's one of the peculiar characteristics of Earthmen that they resent intrusion on their privacy in lavatories,
+stuart%and they'll make no effort to check. If we can hold them off-
+porter%What if they wait, or if they check the spacesuits?
+stuart%Let's hope they don't. And listen, Polyorketes, don't make any fuss when they come in.
+polyorketes%With that little guy out there? What do you think I am?
+polyorketes%You know, I laughed at him. I thought he was an old woman. It makes me ashamed.
+stuart%Look, I've been saying some things that maybe weren't too funny after all, now that I come to think of it. 
+stuart%I'd like to say I'm sorry if I have.
+
+*leblanc
+!stuart
+leblanc%I keep thinking that Mr. Mullen is an old man.
+stuart%Well, he's not a kid. He's about forty-five or fifty, I think.
+leblanc%Do you think, Mr. Stuart, that I should have gone, instead? I'm the youngest here. 
+leblanc%I don't like the thought of having let an old man go in my place. It makes me feel like the devil.
+stuart%I know. If he dies, it will be too bad.
+leblanc%But he volunteered. We didn't make him, did we?
+stuart%Don't try to dodge responsibility, Leblanc. It won't make you feel better. 
+stuart%There isn't one of us without a stronger motive to run the risk than he had.
+
+*porter
+!stuart
+porter%He's been gone an hour and a half.
+stuart%I know.
+porter%Do you suppose they've caught him?
+stuart%If they had, we'd hear about it.
+porter%Listen,
+porter%why did he do it?
+porter%I want to know why Mullen is risking his life.
+windham%The man is a patriot-
+porter%No, none of that!
+porter%That little fellow has no emotions at all. He just has reasons and I want to know what those reasons are, because-
+polyorketes%He's one brave damn little fellow.
+porter%Listen, he may be stuck out there. Whatever he's doing, he may not be able to finish it alone. I-I volunteer to go out after him.
+stuart%Let's give him another half-hour.
+porter%And then-
+stuart%And then all those who do volunteer will draw straws or something equally democratic. Who volunteers, besides Porter?
+
+*stuart
+!mullen
+stuart%For God's sake, get back into bed, Mullen!
+mullen%I'm tired of sleeping, even though I never thought I would be a while ago.
+stuart%How do you feel?
+mullen%I'm stiff all over. Especially my side.
+
+//mullen looks around for the kloros
+stuart%Don't look for the Kloros, we dumped the poor devils.
+stuart%I was sorry for them. To themselves, they're the human beings, you know, and we're the aliens. 
+stuart%Not that I'd rather they'd killed you, you understand.
+mullen%I understand.
+stuart%I owe you a particular and personal apology, Mullen. I didn't think much of you.
+mullen%It was your privilege,
+stuart%No, it wasn't. It is no one's privilege to despise another. It is only a hard-won right after long experience.
+mullen%Have you been thinking about this?
+stuart%Yes, all day. Maybe I can't explain. It's these hands.
+stuart%It was hard knowing that other people had hands of their own. I had to hate them for it. 
+stuart%I always had to do my best to investigate and belittle their motives, point up their deficiencies, expose their stupidities. 
+stuart%I had to do anything that would prove to myself that they weren't worth envying.
+mullen%This explanation is not necessary.
+stuart%It is. It is!
+stuart%For years I've abandoned hope of finding any decency in human beings. Then you climbed into the C-chute.
+mullen%You had better understand that I was motivated by practical and selfish considerations. I will not have you present me to myself as a hero.
+stuart%I wasn't intending to. I know that you would do nothing without a reason. It was what your action did to the rest of us. 
+stuart%It turned a collection of phonies and fools into decent people. 
+stuart%And not by magic either. They were decent all along. It was just that they needed something to live up to and you supplied it. And-
+stuart%I'm one of them. I'll have to live up to you, too. For the rest of my life, probably.
+mullen%I was born in Richmond, Virginia, you know. Here it is. I'll be going there first. Where were you born?
+stuart%Toronto,
+mullen%That's right here. Not very far apart on the map, is it?
+stuart%Would you tell me something?
+mullen%If I can.
+stuart%Just why did you go out there?
+mullen%Wouldn't my rather prosaic reason ruin the inspirational effect?
+stuart%Call it intellectual curiosity. Each of the rest of us had such obvious motives. 
+stuart%Porter was scared to death of being interned; Leblanc wanted to get back to his sweetheart; 
+stuart%Polyorketes wanted to kill Kloros; and Windham was a patriot according to his lights. 
+stuart%As for me, I thought of myself as a noble idealist, I'm afraid. 
+stuart%Yet in none of us was the motivation strong enough to get us into a spacesuit and out the C-chute. Then what made you do it, you, of all people?
+mullen%Why the phrase, 'of all people'?
+stuart%Don't be offended, but you seem devoid of all emotion.
+mullen%Do I?
+mullen%That's only training, Mr. Stuart, and self-discipline; not nature. 
+mullen%A small man can have no respectable emotions. Is there anything more ridiculous than a man like myself in a state of rage? 
+mullen%I'm five feet and one-half inch tall, and one hundred and two pounds in weight, if you care for exact figures. 
+mullen%I insist on the half inch and the two pounds.
+mullen%You talk about deformities. 
+mullen%No one would notice your hands or know they were different, if you weren't so eager to tell people all about it the instant you meet them. 
+mullen%Do you think that the eight inches of height I do not have can be hidden? 
+mullen%That it is not the first and, in most cases, the only thing about me that a person will notice?
+stuart%I'm sorry.
+mullen%Why?
+stuart%I should not have forced you to speak of this. I should have seen for myself that you-that you-
+mullen%That I what? Tried to prove myself? Tried to show that while I might be small in body, I held within it a giant's heart?
+stuart%I would not have put it mockingly.
+mullen%Why not? It's a foolish idea, and nothing like it is the reason I did what I did. 
+mullen%What would I have accomplished if that's what was in my mind? Will they take me to Earth now and put me up before the television cameras-
+mullen%pitching them low, of course, to catch my face, or standing me on a chair- and pin medals on me?
+stuart%They are quite likely to do exactly that.
+mullen%And what good would it do me? They would say, 'Gee, and he's such a little guy.' And afterward, what? 
+mullen%Shall I tell each man I meet, 'You know, I'm the fellow they decorated for incredible valor last month?' 
+mullen%How many medals, Mr. Stuart, do you suppose it would take to put eight inches and sixty pounds on me?
+stuart%Put that way, I see your point.
+mullen%There were days when I thought I would show them, the mysterious 'them' that includes all the world. 
+mullen%I was going to leave Earth and carve out worlds for myself. I would be a new and even smaller Napoleon. So I left Earth and went to Arcturus. 
+mullen%And what could I do on Arcturus that I could not have done on Earth? Nothing. I balance books. 
+mullen%So I am past the vanity, Mr. Stuart, of trying to stand on tiptoe.
+stuart%Then why did you do it?
+mullen%I left Earth when I was twenty-eight and came to the Arcturian System. I've been there ever since. 
+mullen%This trip was to be my first vacation, my first visitback to Earth in all that time. I was going to stay on Earth for six months. 
+mullen%The Kloros instead captured us and would have kept us interned indefinitely. But I couldn't-
+mullen%I couldn 't let them stop me from traveling to Earth. No matter what the risk, I had to prevent their interference. 
+mullen%It wasn't love of woman, or fear, or hate, or idealism of any sort. It was stronger than any of those.
+mullen%Mr. Stuart,
+mullen%haven't you ever been homesick?
